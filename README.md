@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Msimbuzeey
-- 👀 I’m interested in electronics especially computers
-- 🌱 I am a self taught programmer currently learning artificial intelligence
+- 👀 I like coding 'cool' stuff
+- 🌱 Advanced systems, AI, Turning scifis into realities. Backends, Frontends, Multiplatform, native platform, lil web
 - 📫 Contact me via babidonjay@gmail.com
 
 <!---
